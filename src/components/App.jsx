@@ -3,7 +3,7 @@ import styled from 'styled-components';
 import Filter from './Filter.jsx/Filter';
 import ContactForm from './ContactForm.jsx/ContactForm';
 import ContactList from './ContactList.jsx/ContactList';
-import { nanoid } from 'nanoid';
+// import { nanoid } from 'nanoid';
 
 const Container = styled.div`
   max-width: 600px;
